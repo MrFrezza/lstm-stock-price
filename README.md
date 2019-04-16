@@ -9,3 +9,7 @@ Referências para o desenvolvimento do código:
 - Youtube : [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - Youtube : [sentdex](https://www.youtube.com/user/sentdex) 
 - Udacity Nanodegree
+
+### Resultado atual
+Resultados sem alteração significativa nos parâmetros 
+![alt text](https://github.com/MrFrezza/lstm-stock-price/blob/master/plot1.PNG)
